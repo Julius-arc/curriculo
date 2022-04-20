@@ -1,0 +1,12 @@
+.foto-perfil{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 90%;
+    max-width:  200px;
+    border: 1px solid black
+
+}
+
+body{
+    background-color: #f7f7f7;
+}
